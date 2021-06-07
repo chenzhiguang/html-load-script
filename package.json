@@ -1,6 +1,6 @@
 {
   "name": "html-load-script",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load script",
   "main": "src/index.ts",
   "scripts": {
