@@ -1,0 +1,19 @@
+{
+  "name": "html-load-script",
+  "version": "0.1.0",
+  "description": "Load script",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenzhiguang/html-load-script"
+  },
+  "author": "Zhiguang Chen<zhiguang.c@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {}
+}
